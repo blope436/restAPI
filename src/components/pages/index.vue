@@ -7,7 +7,7 @@ const {cookingRecipes, getRecipes} = useApi();
 <div class="container mx-auto text-red-700">
 <div ><img class="px-80 py-3" src="https://media.istockphoto.com/photos/on-colourful-speech-bubbles-picture-id180819641?b=1&k=20&m=180819641&s=170667a&w=0&h=CX51cRVofQl95e_cu9Bfy5PLZQ1WdsqmJ-NCFzU96UI="></div>
 <div class="text-center text-red-900">
-    <h3 class="text-4xl ">Welcome to the Cooking Recipes site. You will be able to access the best recipes in the world. Youtube videos inlcudes(NOTE:Videos could go down at any time)</h3>
+    <h3 class="text-4xl ">Welcome to the Cooking Recipes site. You will be able to access the best recipes in the world. Youtube videos included(NOTE:Videos could go down at any time)</h3>
     <h1 class="py-5 text-6xl">Good luck cooking!</h1>
 </div>
 <div class="py-10">
